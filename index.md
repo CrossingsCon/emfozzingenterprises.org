@@ -10,4 +10,4 @@ We want to make it easy for people to bring the things they love, share them wit
 Emfozzing Enterprises sponsors two main things:
 
 - [CrossingsCon](https://www.crossingscon.org), a convention about the _Young Wizards_ series and all the other universes out there that we visit when we read
-- [The Young Wizards Slack](http://www.crossingscon.org/community/slack/), the offline reflection of that convention that doesn't have to end after three days
+- [The Young Wizards Slack](http://www.crossingscon.org/community/slack/), the online reflection of that convention that doesn't have to end after three days
