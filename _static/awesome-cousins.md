@@ -16,12 +16,15 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Andrea N</li>
       <li>aproustian42</li>
       <li>astralaria</li>
+      <li>Bex</li>
       <li>bookwyrmkc</li>
-      <li>Carol J Guess</li>
+      <li>Bryton of the Puns</li>
+      <li>Carol Guess</li>
       <li>Cereus (Soilrockslove)</li>
       <li>Charico</li>
       <li>Cheryl Pedersen</li>
       <li>Christina Marie</li>
+      <li>Chris Yavosaur</li>
       <li>Claudia Ross</li>
       <li>clotpoleofthelord</li>
       <li>colorfulcuttlefish</li>
@@ -29,6 +32,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Denver H.</li>
       <li>Diana Jacomb-Hood</li>
       <li>Dove</li>
+      <li>Dre</li>
       <li>Emily Topham</li>
       <li>Erik Bergesen</li>
       <li>Erin</li>
@@ -44,6 +48,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>inky-thoughts</li>
       <li>Is</li>
       <li>Jazz</li>
+      <li>Jenn DeMent</li>
       <li>Jessica Ng</li>
       <li>Jules and Liz Coleman</li>
       <li>Katerina</li>
@@ -63,14 +68,15 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Mage of Blood</li>
       <li>Marmotknit</li>
       <li>Mary Shrieks</li>
+      <li>Meg B</li>
+      <li>Meghan</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
-      <li>Meg B</li>
-      <li>Meghan</li>
       <li>Mel Gilbertson</li>
       <li>Miaka Provost</li>
+      <li>Mitch</li>
       <li>Moments Away</li>
       <li>Nandinee</li>
       <li>NasiDe</li>
@@ -86,13 +92,16 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Roger Wolfson</li>
       <li>Sara H.</li>
       <li>Sarah Johansen</li>
+      <li>Sarah M.</li>
+      <li>Sarah, Heather & their birds</li>
       <li>Sarbear</li>
       <li>Shannon</li>
       <li>Shmaylor</li>
       <li>soulsuckingisaacnewton</li>
       <li>Tango</li>
+      <li>tptigger</li>
+      <li>tuttleturtle</li>
       <li>Virginia & Susan Mellinger</li>
-      <li>Yavosaur</li>
     </ul>
   </div>
 </div>
