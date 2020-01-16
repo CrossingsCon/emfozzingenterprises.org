@@ -15,6 +15,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Amanda DeLand</li>
       <li>Andrea N</li>
       <li>aproustian42</li>
+      <li>Askea</li>
       <li>astralaria</li>
       <li>Bex</li>
       <li>bookwyrmkc</li>
@@ -35,13 +36,14 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Dre</li>
       <li>Emily Topham</li>
       <li>Erik Bergesen</li>
+      <li>Eric Astor</li>
       <li>Erin</li>
-      <li>GrayGriffin</li>
-      <li>Heather D.</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
+      <li>GrayGriffin</li>
+      <li>Heather D.</li>
       <li>hello-delicious-tea</li>
       <li>Holland Dougherty</li>
       <li>imjoshdean</li>
@@ -69,11 +71,11 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Marmotknit</li>
       <li>Mary Shrieks</li>
       <li>Meg B</li>
-      <li>Meghan</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
+      <li>Meghan</li>
       <li>Mel Gilbertson</li>
       <li>Miaka Provost</li>
       <li>Mitch</li>
