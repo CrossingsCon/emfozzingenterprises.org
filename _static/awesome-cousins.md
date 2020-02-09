@@ -38,17 +38,20 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Erik Bergesen</li>
       <li>Eric Astor</li>
       <li>Erin</li>
+      <li>Geoff C.</li>
+      <li>GrayGriffin</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
-      <li>GrayGriffin</li>
       <li>Heather D.</li>
       <li>hello-delicious-tea</li>
       <li>Holland Dougherty</li>
       <li>imjoshdean</li>
       <li>inky-thoughts</li>
       <li>Is</li>
+      <li>Inga</li>
+      <li>J</li>
       <li>Jazz</li>
       <li>Jenn DeMent</li>
       <li>Jessica Ng</li>
@@ -71,11 +74,11 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Marmotknit</li>
       <li>Mary Shrieks</li>
       <li>Meg B</li>
+      <li>Meghan</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
-      <li>Meghan</li>
       <li>Mel Gilbertson</li>
       <li>Miaka Provost</li>
       <li>Mitch</li>
@@ -88,10 +91,12 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Olivia</li>
       <li>Olivia Maurer</li>
       <li>PosiCat</li>
+      <li>RacheltheGood</li>
       <li>Rebecca</li>
       <li>Rebecca K</li>
       <li>Rebecca Krentz-Wee</li>
       <li>Roger Wolfson</li>
+      <li>Rosemary M.</li>
       <li>Sara H.</li>
       <li>Sarah Johansen</li>
       <li>Sarah M.</li>
