@@ -40,11 +40,11 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Erin</li>
       <li>Geoff C.</li>
       <li>GrayGriffin</li>
+      <li>Heather D.</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
-      <li>Heather D.</li>
       <li>hello-delicious-tea</li>
       <li>Holland Dougherty</li>
       <li>imjoshdean</li>
@@ -75,14 +75,15 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Mary Shrieks</li>
       <li>Meg B</li>
       <li>Meghan</li>
+      <li>Mel Gilbertson</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
-      <li>Mel Gilbertson</li>
       <li>Miaka Provost</li>
       <li>Mitch</li>
       <li>Moments Away</li>
+      <li>Nadine D.</li>  
       <li>Nandinee</li>
       <li>NasiDe</li>
       <li>nyquildriver</li>
@@ -106,6 +107,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Shmaylor</li>
       <li>soulsuckingisaacnewton</li>
       <li>Tango</li>
+      <li>Timothy P.</li>
       <li>tptigger</li>
       <li>tuttleturtle</li>
       <li>Virginia & Susan Mellinger</li>
