@@ -52,6 +52,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Is</li>
       <li>Inga</li>
       <li>J</li>
+      <li>Jamie B.</li>
       <li>Jazz</li>
       <li>Jenn DeMent</li>
       <li>Jessica Ng</li>
@@ -91,6 +92,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>ohthewhomanity</li>
       <li>Olivia</li>
       <li>Olivia Maurer</li>
+      <li>Oseas H.</li>
       <li>PosiCat</li>
       <li>RacheltheGood</li>
       <li>Rebecca</li>
