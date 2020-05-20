@@ -4,7 +4,7 @@ title: Wall of Awesome Cousins
 order: 50
 ---
 
-These are (some of) the cousins who supported us in the beginning during our official fundraiser. Hats off to you, cousins! You're the reason CrossingsCon and Emfozzing Enterprises exists!
+These are (some of) the cousins who supported us in the beginning during our official fundraiser, as well as those currently supporting us via Patreon. Hats off to you, cousins! You're the reason CrossingsCon and Emfozzing Enterprises exists!
 
 <div id="wall-of-awesome-cousins" class="row">
   <div class="col-12 col-md-4">
@@ -78,11 +78,11 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Meg B</li>
       <li>Meghan</li>
       <li>Mel Gilbertson</li>
+      <li>Miaka Provost</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
-      <li>Miaka Provost</li>
       <li>Mitch</li>
       <li>Moments Away</li>
       <li>Nadine D.</li>  
@@ -102,6 +102,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Roger Wolfson</li>
       <li>Rosemary M.</li>
       <li>Sara H.</li>
+      <li>Sara N.</li>
       <li>Sarah Johansen</li>
       <li>Sarah M.</li>
       <li>Sarah, Heather & their birds</li>
