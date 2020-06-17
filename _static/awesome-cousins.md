@@ -17,6 +17,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>aproustian42</li>
       <li>Askea</li>
       <li>astralaria</li>
+      <li>Beth</li>
       <li>Bex</li>
       <li>bookwyrmkc</li>
       <li>Bryton of the Puns</li>
@@ -30,7 +31,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>clotpoleofthelord</li>
       <li>colorfulcuttlefish</li>
       <li>Dalia</li>
-      <li>Dash</li> 
+      <li>Dash Buck</li> 
       <li>Denver H.</li>
       <li>Diana Jacomb-Hood</li>
       <li>Dove</li>
@@ -58,6 +59,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Jenn DeMent</li>
       <li>Jessica Ng</li>
       <li>Jules and Liz Coleman</li>
+      <li>Kali</li>
       <li>Katerina</li>
       <li>Kay</li>
       <li>Kayla</li>
@@ -109,6 +111,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Sarbear</li>
       <li>Shannon</li>
       <li>Shmaylor</li>
+      <li>Skylar</li>
       <li>soulsuckingisaacnewton</li>
       <li>Tango</li>
       <li>Timothy P.</li>
