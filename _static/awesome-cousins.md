@@ -4,7 +4,7 @@ title: Wall of Awesome Cousins
 order: 50
 ---
 
-These are (some of) the cousins who supported us in the beginning during our official fundraiser. Hats off to you, cousins! You're the reason CrossingsCon and Emfozzing Enterprises exists!
+These are (some of) the cousins who supported us in the beginning during our official fundraiser, as well as those currently supporting us via Patreon. Hats off to you, cousins! You're the reason CrossingsCon and Emfozzing Enterprises exists!
 
 <div id="wall-of-awesome-cousins" class="row">
   <div class="col-12 col-md-4">
@@ -17,6 +17,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>aproustian42</li>
       <li>Askea</li>
       <li>astralaria</li>
+      <li>Beth</li>
       <li>Bex</li>
       <li>bookwyrmkc</li>
       <li>Bryton of the Puns</li>
@@ -30,6 +31,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>clotpoleofthelord</li>
       <li>colorfulcuttlefish</li>
       <li>Dalia</li>
+      <li>Dash Buck</li> 
       <li>Denver H.</li>
       <li>Diana Jacomb-Hood</li>
       <li>Dove</li>
@@ -57,6 +59,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Jenn DeMent</li>
       <li>Jessica Ng</li>
       <li>Jules and Liz Coleman</li>
+      <li>Kali</li>
       <li>Katerina</li>
       <li>Kay</li>
       <li>Kayla</li>
@@ -77,16 +80,17 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Meg B</li>
       <li>Meghan</li>
       <li>Mel Gilbertson</li>
+      <li>Miaka Provost</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
-      <li>Miaka Provost</li>
       <li>Mitch</li>
       <li>Moments Away</li>
       <li>Nadine D.</li>  
       <li>Nandinee</li>
       <li>NasiDe</li>
+      <li>Nikhil</li>
       <li>nyquildriver</li>
       <li>O. Nativ</li>
       <li>ohthewhomanity</li>
@@ -101,12 +105,14 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Roger Wolfson</li>
       <li>Rosemary M.</li>
       <li>Sara H.</li>
+      <li>Sara N.</li>
       <li>Sarah Johansen</li>
       <li>Sarah M.</li>
       <li>Sarah, Heather & their birds</li>
       <li>Sarbear</li>
       <li>Shannon</li>
       <li>Shmaylor</li>
+      <li>Skylar</li>
       <li>soulsuckingisaacnewton</li>
       <li>Tango</li>
       <li>Timothy P.</li>
