@@ -10,5 +10,5 @@ We want to make it easy for people to bring the things they love, share them wit
 Emfozzing Enterprises sponsors two main things:
 
 - [CrossingsCon](https://www.crossingscon.org), a convention about the _Young Wizards_ series and all the other universes out there that we visit when we read
-- [The Crossings Slack](http://www.crossingscon.org/community/slack/), the online reflection of that convention that doesn't have to end after three days. You can sign yourself up for an account [here](https://youngwizards-slackin.herokuapp.com/)
+- [The Crossings Slack](http://www.crossingscon.org/community/slack/), the online reflection of that convention that doesn't have to end after three days. You can sign yourself up for an account [here](http://slackin.emfozzingenterprises.org/)
 - [Linguistics After Dark](http://linguisticsafterdark.com/), a linguistics podcast spawned from a particularly popular event at CrossingsCon 2019
