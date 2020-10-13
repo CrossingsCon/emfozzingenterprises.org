@@ -90,7 +90,6 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Nadine D.</li>  
       <li>Nandinee</li>
       <li>NasiDe</li>
-      <li>Nikhil</li>
       <li>nyquildriver</li>
       <li>O. Nativ</li>
       <li>ohthewhomanity</li>
@@ -99,8 +98,9 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Oseas H.</li>
       <li>PosiCat</li>
       <li>RacheltheGood</li>
+      <li>Ralph C.</li>
       <li>Rebecca</li>
-      <li>Rebecca K</li>
+      <li>Rebecca K.</li>
       <li>Rebecca Krentz-Wee</li>
       <li>Roger Wolfson</li>
       <li>Rosemary M.</li>
@@ -117,6 +117,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Tango</li>
       <li>Timothy P.</li>
       <li>tptigger</li>
+      <li>Trickey_7</li>
       <li>tuttleturtle</li>
       <li>Virginia & Susan Mellinger</li>
     </ul>
