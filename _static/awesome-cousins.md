@@ -67,6 +67,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Kendal Reed</li>
       <li>Kit Laika</li>
       <li>Laura KP</li>
+      <li>Laura R.</li>
       <li>Leila Robles</li>
       <li>LeVar</li>
       <li>Linda</li>
