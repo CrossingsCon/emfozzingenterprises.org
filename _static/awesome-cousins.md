@@ -43,11 +43,11 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Geoff C.</li>
       <li>GrayGriffin</li>
       <li>Heather D.</li>
+      <li>hello-delicious-tea</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
-      <li>hello-delicious-tea</li>
       <li>Holland Dougherty</li>
       <li>imjoshdean</li>
       <li>inky-thoughts</li>
@@ -67,13 +67,13 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Kendal Reed</li>
       <li>Kit Laika</li>
       <li>Laura KP</li>
-      <li>Laura R.</li>
       <li>Leila Robles</li>
       <li>LeVar</li>
       <li>Linda</li>
       <li>Line Monkey</li>
       <li>Liz/ladybard</li>
       <li>lizzieraindrops</li>
+      <li>locaphi</li>
       <li>Lyssie</li>
       <li>Mage of Blood</li>
       <li>Marmotknit</li>
@@ -82,11 +82,11 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Meghan</li>
       <li>Mel Gilbertson</li>
       <li>Miaka Provost</li>
+      <li>Mitch</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
-      <li>Mitch</li>
       <li>Moments Away</li>
       <li>Nadine D.</li>  
       <li>Nandinee</li>
@@ -100,6 +100,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>PosiCat</li>
       <li>RacheltheGood</li>
       <li>Ralph C.</li>
+      <li>Randdy K.</li>
       <li>Rebecca</li>
       <li>Rebecca K.</li>
       <li>Rebecca Krentz-Wee</li>
