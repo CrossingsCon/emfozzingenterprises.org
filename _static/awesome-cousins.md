@@ -36,6 +36,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Diana Jacomb-Hood</li>
       <li>Dove</li>
       <li>Dre</li>
+      <li>Elijah B.</li>
       <li>Emily Topham</li>
       <li>Erik Bergesen</li>
       <li>Eric Astor</li>
@@ -48,12 +49,12 @@ These are (some of) the cousins who supported us in the beginning during our off
   </div>
   <div class="col-12 col-md-4">
     <ul>
-      <li>Holland Dougherty</li>
       <li>imjoshdean</li>
       <li>inky-thoughts</li>
       <li>Is</li>
       <li>Inga</li>
       <li>J</li>
+      <li>James Dougherty</li>
       <li>Jamie B.</li>
       <li>Jazz</li>
       <li>Jenn DeMent</li>
