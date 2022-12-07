@@ -20,7 +20,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Beth</li>
       <li>Bex</li>
       <li>bookwyrmkc</li>
-      <li>Bryton of the Puns</li>
+      <li>Boomer R.</li>
       <li>Carol Guess</li>
       <li>Cereus (Soilrockslove)</li>
       <li>Charico</li>
@@ -31,12 +31,13 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>clotpoleofthelord</li>
       <li>colorfulcuttlefish</li>
       <li>Dalia</li>
-      <li>Dash Buck</li> 
+      <li>Dash Buck</li>
       <li>Denver H.</li>
       <li>Diana Jacomb-Hood</li>
       <li>Dove</li>
       <li>Dre</li>
       <li>Elijah B.</li>
+      <li>Emma G.</li>
       <li>Emily Topham</li>
       <li>Erik Bergesen</li>
       <li>Eric Astor</li>
@@ -45,17 +46,18 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>GrayGriffin</li>
       <li>Heather D.</li>
       <li>hello-delicious-tea</li>
+      <li>imjoshdean</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
-      <li>imjoshdean</li>
       <li>inky-thoughts</li>
       <li>Is</li>
       <li>Inga</li>
       <li>J</li>
       <li>James Dougherty</li>
       <li>Jamie B.</li>
+      <li>Jason Chance</li>
       <li>Jazz</li>
       <li>Jenn DeMent</li>
       <li>Jessica Ng</li>
@@ -76,6 +78,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>lizzieraindrops</li>
       <li>locaphi</li>
       <li>Lyssie</li>
+      <li>Madison S.</li>
       <li>Mage of Blood</li>
       <li>Marmotknit</li>
       <li>Mary Shrieks</li>
@@ -84,12 +87,12 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Mel Gilbertson</li>
       <li>Miaka Provost</li>
       <li>Mitch</li>
+      <li>Moments Away</li>
     </ul>
   </div>
   <div class="col-12 col-md-4">
     <ul>
-      <li>Moments Away</li>
-      <li>Nadine D.</li>  
+      <li>Nadine D.</li>
       <li>Nandinee</li>
       <li>NasiDe</li>
       <li>nyquildriver</li>
@@ -105,10 +108,12 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Rebecca</li>
       <li>Rebecca K.</li>
       <li>Rebecca Krentz-Wee</li>
+      <li>Riker</li>
       <li>Roger Wolfson</li>
       <li>Rosemary M.</li>
       <li>Sara H.</li>
       <li>Sara N.</li>
+      <li>Sarah</li>
       <li>Sarah Johansen</li>
       <li>Sarah M.</li>
       <li>Sarah, Heather & their birds</li>
@@ -118,6 +123,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>Skylar</li>
       <li>soulsuckingisaacnewton</li>
       <li>Tango</li>
+      <li>Taylor of the Puns</li>
       <li>Timothy P.</li>
       <li>tptigger</li>
       <li>Trickey_7</li>
