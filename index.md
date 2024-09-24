@@ -12,5 +12,6 @@ If you'd like to support what we do, consider joining our [Patreon](https://www.
 Emfozzing Enterprises sponsors three main things:
 
 - [CrossingsCon](https://www.crossingscon.org), a convention about the _Young Wizards_ series and all the other universes out there that we visit when we read
+  - [CrossingsCon Book Club](https://crossingscon.org/community/book_club/), a monthly book club focused on speculative fiction that meets virtually
 - [The Crossings Slack](http://www.crossingscon.org/community/slack/), the online reflection of that convention that doesn't have to end after three days. You can sign yourself up for an account [here]({{ site.data.social_media.slack }})
 - [Linguistics After Dark](http://linguisticsafterdark.com/), a linguistics podcast spawned from a particularly popular event at CrossingsCon 2019
