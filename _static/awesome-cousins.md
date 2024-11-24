@@ -31,6 +31,7 @@ These are (some of) the cousins who supported us in the beginning during our off
       <li>clotpoleofthelord</li>
       <li>colorfulcuttlefish</li>
       <li>Dalia</li>
+      <li>David</li>
       <li>Dash Buck</li>
       <li>Denver H.</li>
       <li>Diana Jacomb-Hood</li>
